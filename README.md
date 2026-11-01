@@ -10,4 +10,6 @@ Scenario 3 emerged as the optimal configuration on the validation dataset and ac
 
 ## Application:
 This application features an intelligent diagnostic tool that enables users to easily capture or upload mango leaf images directly via their device's camera or photo gallery. Built for high performance and efficiency, testing results demonstrate that the system processes each image and delivers complete detection results within just 5 seconds. The comprehensive output not only highlights affected areas using precise bounding boxes paired with disease labels and confidence scores, but also provides valuable insights into disease characteristics, observed symptoms, and actionable preventive measures.
+
+
 ![image alt](https://github.com/vibrous83/Detection-of-Mango-Plant-Diseases/blob/main/result.png?raw=true)
